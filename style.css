@@ -1,0 +1,26 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+}
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #2c0b0f;
+	color: rgb(121, 18, 18);
+	cursor: pointer;
+}
+img {
+	width: 200px ;
+}
+body {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	background: rgb(36, 177, 177);
+	color: purple;
+}
